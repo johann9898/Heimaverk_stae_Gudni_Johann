@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using NCalc;
 
 namespace Heimaverk_stae_Gudni_Johann
 {
@@ -16,13 +17,23 @@ namespace Heimaverk_stae_Gudni_Johann
         {
             InitializeComponent();
         }
+        IDictionary<double, double> dict = new Dictionary<double, double>();
 
         private void bt_submit_Click(object sender, EventArgs e)
         {
-            int dreif = Convert.ToInt32(tb_dreif.Text);
-            
+            Expression num = new Expression(tb_line.Text);
 
-            
+            for (int i = -50; i <= 50; i++)
+            {
+                num.Parameters["x"] = i;
+                double number = Convert.ToDouble(num.Evaluate());
+
+                MessageBox.Show(number.ToString());
+
+
+            }
+
+
         }
     }
 }
