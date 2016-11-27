@@ -1,10 +1,10 @@
-c:\users\lenovo\documents\visual studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\bin\Debug\Heimaverk_stae_Gudni_Johann.exe.config
-C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\bin\Debug\Heimaverk_stae_Gudni_Johann.exe
-C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\bin\Debug\Heimaverk_stae_Gudni_Johann.pdb
-C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\bin\Debug\NCalc.dll
-C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.csprojResolveAssemblyReference.cache
-C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.Form1.resources
-C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.Properties.Resources.resources
-C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.csproj.GenerateResource.Cache
-C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.exe
-C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.pdb
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\bin\Debug\Heimaverk_stae_Gudni_Johann.exe.config
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\bin\Debug\Heimaverk_stae_Gudni_Johann.exe
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\bin\Debug\Heimaverk_stae_Gudni_Johann.pdb
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\bin\Debug\NCalc.dll
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.csprojResolveAssemblyReference.cache
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.Form1.resources
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.Properties.Resources.resources
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.csproj.GenerateResource.Cache
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.exe
+C:\Users\Guðni\Documents\GitHub\Heimaverk_stae_Gudni_Johann\Heimaverk_stae_Gudni_Johann\obj\Debug\Heimaverk_stae_Gudni_Johann.pdb
