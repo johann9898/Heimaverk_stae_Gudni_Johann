@@ -107,7 +107,6 @@ namespace Heimaverk_stae_Gudni_Johann
                     g.DrawLine(lightpen, ypoint1, ypoint2);
                 }
                 g.DrawString(Convert.ToString(48 - (i * 4)), font, blackBrush, 202, i * 16);
-                if ((i * 4) - 48 != 0)
                 g.DrawString(Convert.ToString((i * 4) - 48), font, blackBrush, i * 16, 202);
 
             }
