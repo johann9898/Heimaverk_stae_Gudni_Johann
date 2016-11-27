@@ -35,19 +35,20 @@ namespace Heimaverk_stae_Gudni_Johann
             pointlist.Clear();
             for (int i = -50; i <= 50; i++)
             {
+                float number = 0;
                 num.Parameters["x"] = i;
-                float number = Convert.ToSingle(num.Evaluate());
+                try
+                {
+                    number = Convert.ToSingle(num.Evaluate());
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("Please try again.", "You broke it.");
+                    return;
+                }
 
                 //Failsafe
                 int upperbound = 100000;
-                if (number > upperbound)
-                {
-                    number = upperbound;
-                }
-                if (number < -upperbound)
-                {
-                    number = -upperbound;
-                }
                 if (number > upperbound)
                 {
                     number = upperbound;
