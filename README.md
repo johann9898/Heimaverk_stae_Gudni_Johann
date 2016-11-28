@@ -1,36 +1,36 @@
 ## Synopsis
 
-Grafísk reiknivél sem sınir föll á bilinu -50 til 50 á x og y ás.
+GrafÃ­sk reiknivÃ©l sem sÃ½nir fÃ¶ll Ã¡ bilinu -50 til 50 Ã¡ x og y Ã¡s.
 
 ## Motivation
 
-Hópverkefni í STÆ3FM03ETS, haust 2016
+HÃ³pverkefni Ã­ STÃ†3FM03ETS, haust 2016
 
 ## Installation
 
-Downloada Zip skrá
-Builda meğ visual studio
-Runna frá Heimaverk_stae_Gudni_Johann\bin\Debug\Heimaverk_stae_Gudni_Johann.exe
+Downloada Zip skrÃ¡
+Builda meÃ° visual studio
+Runna frÃ¡ Heimaverk_stae_Gudni_Johann\bin\Debug\Heimaverk_stae_Gudni_Johann.exe
 
 ## Usage
 
-Hægt er ağ setja inn hvernig fall sem er.
-Hér eru dæmi um hvernig skrifa şarf föllin svo forritiğ skilji şau:
+HÃ¦gt er aÃ° setja inn hvernig fall sem er.
+HÃ©r eru dÃ¦mi um hvernig skrifa Ã¾arf fÃ¶llin svo forritiÃ° skilji Ã¾au:
 
 f(x) = 0
-Getur tekiğ viğ föstum
+Getur tekiÃ° viÃ° fÃ¶stum
 
 f(x) = x
-Getur notağ breytilinn x
+Getur notaÃ° breytilinn x
 
 f(x) = 5 * x
-x má margfalda meğ tölu, forritiğ getur ekki skiliğ şetta án margföldunarmerkis. (bara "5x" mundi bila).
+x mÃ¡ margfalda meÃ° tÃ¶lu, forritiÃ° getur ekki skiliÃ° Ã¾etta Ã¡n margfÃ¶ldunarmerkis. (bara "5x" mundi bila).
 
 f(x) = Pow(x, 2)
-Notar falliğ Pow() til şess ağ setja x í annağ veldi. Notağ svona: Pow(x, veldi)
+Notar falliÃ° Pow() til Ã¾ess aÃ° setja x Ã­ annaÃ° veldi. NotaÃ° svona: Pow(x, veldi)
 
 f(x) = (Pow(x, 2) + 5) / Pow(x, 3)
-Şağ er reiknağ fyrst innan úr svigum.
+ÃaÃ° er reiknaÃ° fyrst innan Ãºr svigum.
 
 ## API Reference
 
@@ -41,7 +41,7 @@ https://ncalc.codeplex.com/
 
 MIT License
 
-Copyright (c) 2016 Guğni Natan Gunnarsson, Jóhann Rúnarsson & Friğrik Njálsson
+Copyright (c) 2016 GuÃ°ni Natan Gunnarsson & JÃ³hann RÃºnarsson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
