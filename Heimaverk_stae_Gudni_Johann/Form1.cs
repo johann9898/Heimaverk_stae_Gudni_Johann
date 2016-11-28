@@ -1,11 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using NCalc;
 using System.Threading;
@@ -27,23 +22,23 @@ namespace Heimaverk_stae_Gudni_Johann
 
         private void bt_submit_Click(object sender, EventArgs e)
         {
+            pointlist.Clear();
             if (String.IsNullOrEmpty(tb_line.Text))
             {
                 return;
             }
             Expression num = new Expression(tb_line.Text);
-            pointlist.Clear();
             for (int i = -50; i <= 50; i++)
             {
                 float number = 0;
                 num.Parameters["x"] = i;
+                num.Parameters["pi"] = Math.PI;
                 try
                 {
                     number = Convert.ToSingle(num.Evaluate());
                 }
                 catch (Exception)
                 {
-                    MessageBox.Show("Please try again.", "You broke it.");
                     return;
                 }
 
